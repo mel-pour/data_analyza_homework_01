@@ -1,0 +1,17 @@
+numpy
+scipy
+
+pandas
+openpyxl
+
+matplotlib
+seaborn
+
+scikit-learn
+
+yfinance
+streamlit
+
+jupyter
+notebook
+lab
